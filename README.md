@@ -328,7 +328,7 @@ Texture        : 选择角色的 Diffuse 贴图（名称通常含 _D 后缀）
                   └──────────────────────────────────────── (Normal)  Emissive Color
 ```
 
----![Uploading image.png…]()
+---
 
 
 *Made with Unreal Engine 5 + Claude*# ue5-sakuga
