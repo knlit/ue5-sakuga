@@ -329,7 +329,7 @@ Texture        : 选择角色的 Diffuse 贴图（名称通常含 _D 后缀）
 ```
 
 ---
-<img width="2560" height="1347" alt="image" src="https://github.com/user-attachments/assets/7e5fb387-9a70-463f-b42c-966b68a7b7f7" />
+![效果截图](效果图.png)
 
 
 *Made with Unreal Engine 5 + Claude*# ue5-sakuga
